@@ -88,7 +88,7 @@ namespace CoffeeSystem.BLL.Implementacion
 
                 if (!respuesta)
                 {
-                    throw new TaskCanceledException("No se pudo modficar el proveedor");
+                    throw new TaskCanceledException("No se pudo modificar el proveedor");
                 }
 
                 return proveedorEditar;

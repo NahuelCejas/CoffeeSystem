@@ -80,25 +80,25 @@ $("#btnNuevo").click(function () {
 
 $("#btnRegistrar").click(function () {
        
-    //const inputs = $("input.input-validar")serializeArray();
-    //const inputs_sin_valor = inputs.filter((item) => item.value.trim() == "")
+    const inputs = $("input.input-validar").serializeArray();
+    const inputs_sin_valor = inputs.filter((item) => item.value.trim() == "")
 
 
-    //if (inputs_sin_valor.length > 0) {
-    //    const mensaje = `Debe completar el campo: "${inputs_sin_valor[0].name}"`;
-    //    toastr.warning("", mensaje);
-    //    $('input[name="' + inputs_sin_valor[0].name + '"]').focus();
-    //    return;
-    //}
+    if (inputs_sin_valor.length > 0) {
+        const mensaje = `Debe completar el campo: "${inputs_sin_valor[0].name}"`;
+        toastr.warning("", mensaje);
+        $('input[name="' + inputs_sin_valor[0].name + '"]').focus();
+        return;
+    }
 
     const modelo = structuredClone(MODELO_BASE);
     modelo["idProveedor"] = parseInt($("#txtId").val())
     modelo["razonSocial"] = $("#txtRazonSocial").val()
     modelo["cuit"] = $("#txtCUIT").val()
     modelo["direccion"] = $("#txtDireccion").val()
-    modelo["localidad"] = $("txtLocalidad").val()
+    modelo["localidad"] = $("#txtLocalidad").val()
     modelo["codigoPostal"] = $("#txtCodPostal").val()
-    modelo["nombre"] = $("txtNombre").val()
+    modelo["nombre"] = $("#txtNombre").val()
     modelo["email"] = $("#txtCorreo").val()
     modelo["telefono"] = $("#txtTelefono").val()
 
@@ -117,17 +117,17 @@ $("#btnRegistrar").click(function () {
                 $("#modalData").find("div.modal-content").LoadingOverlay("hide");
                 return response.ok ? response.json() : Promise.reject(response);
             })
-        //.then(responseJson => {
+            .then(responseJson => {
 
-        //    if (responseJson.estado) {
-        //        tablaData.row.add(responseJson.objeto).draw(false)
-        //        $("modalData").modal("hide")
-        //        swal("Listo!", "Proveedor registrado correctamente", "success")
-        //    } else{
+                if (responseJson.estado) {
+                    tablaData.row.add(responseJson.objeto).draw(false)
+                    $("modalData").modal("hide")
+                    swal("Listo!", "Proveedor registrado correctamente", "success")
+                } else{
 
-        //        swal("Lo sentimos", responseJson.mensaje, "error")
-        //    }
-        //})
+                    swal("Lo sentimos", responseJson.mensaje, "error")
+                }
+            })
 
     } else {
         fetch("/Proveedor/Editar", {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeSystem.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+106681e06ed76cb6ed6991e6b68343b0e6dd0876")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeSystem.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeSystem.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

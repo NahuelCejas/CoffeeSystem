@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
       "projectName": "CoffeeSystem.Entity",
-      "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
       "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

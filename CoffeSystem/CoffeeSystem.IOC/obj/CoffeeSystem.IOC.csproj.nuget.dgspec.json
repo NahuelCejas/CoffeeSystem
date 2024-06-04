@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj": {}
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj": {
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj",
         "projectName": "CoffeeSystem.BLL",
-        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj",
         "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj"
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj"
               },
-              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj"
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj",
         "projectName": "CoffeeSystem.DAL",
-        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj",
         "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj"
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
         "projectName": "CoffeeSystem.Entity",
-        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
         "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -232,14 +232,14 @@
         }
       }
     },
-    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj": {
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
         "projectName": "CoffeeSystem.IOC",
-        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
         "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,11 +261,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj"
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj"
               },
-              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj"
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj"
               }
             }
           }

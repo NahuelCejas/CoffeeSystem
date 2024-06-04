@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7bkX06ERxCfzb6Sp+P2ssVsKJMQbblqDp5nKboTG/4ioLOdOzyhPvkh+djqc22QrYlIPKsFpPJi1wf6/uA+Tg==",
+  "dgSpecHash": "bD/YCerxS9uRXu06zBf0E9VJ/CumdNtDNmRXHOGAS+YmL4pZubAYQCyHs9Oyeo8orPo+A1aSts1OGrz+2jdcUg==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
+  "projectFilePath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nahue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nahue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

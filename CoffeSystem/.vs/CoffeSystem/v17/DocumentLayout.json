@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\",
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|solutionrelative:coffeesystem.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\wwwroot\\js\\vistas\\proveedor_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\wwwroot\\js\\vistas\\proveedor_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\wwwroot\\js\\vistas\\proveedor_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{803501DD-4B7D-4EED-8C30-5E6D94AE59FA}|CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.bll\\implementacion\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{803501DD-4B7D-4EED-8C30-5E6D94AE59FA}|CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.bll\\implementacion\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{803501DD-4B7D-4EED-8C30-5E6D94AE59FA}|CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj|solutionrelative:coffeesystem.bll\\implementacion\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.dal\\dbcontext\\dbcoffeesystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|solutionrelative:coffeesystem.dal\\implementacion\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.dal\\dbcontext\\dbcoffeesystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{431D4920-4958-4CD5-AA62-BB8D9611B710}|CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj|solutionrelative:coffeesystem.dal\\dbcontext\\dbcoffeesystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\utilidades\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10E67975-4266-41AF-8FF3-6EF313A459B4}|CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.entity\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10E67975-4266-41AF-8FF3-6EF313A459B4}|CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.entity\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10E67975-4266-41AF-8FF3-6EF313A459B4}|CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj|solutionrelative:coffeesystem.entity\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\models\\viewmodels\\vmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\models\\viewmodels\\vmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\models\\viewmodels\\vmproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\utilidades\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\utilidades\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\utilidades\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\wwwroot\\js\\vistas\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\wwwroot\\js\\vistas\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\wwwroot\\js\\vistas\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffesystem\\coffeesystem.webapp\\views\\ordendecompra\\listarordendecompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|d:\\documents\\github\\prueba coffeesystem\\coffeesystem\\coffesystem\\coffeesystem.webapp\\views\\ordendecompra\\listarordendecompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02FF3A46-194C-476D-A18E-AE2FD1D58D1E}|CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj|solutionrelative:coffeesystem.webapp\\views\\ordendecompra\\listarordendecompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,24 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
-              "RelativeToolTip": "CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:41:29.602Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -85,87 +72,95 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DbcoffeeSystemContext.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\DBContext\\DbcoffeeSystemContext.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\DBContext\\DbcoffeeSystemContext.cs",
               "RelativeDocumentMoniker": "CoffeeSystem.DAL\\DBContext\\DbcoffeeSystemContext.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\DBContext\\DbcoffeeSystemContext.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\DBContext\\DbcoffeeSystemContext.cs",
               "RelativeToolTip": "CoffeeSystem.DAL\\DBContext\\DbcoffeeSystemContext.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAAANcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T06:29:51.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
-              "RelativeToolTip": "CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAAABkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T01:55:29.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Proveedor_Index.js",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
-              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
-              "RelativeToolTip": "CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
-              "ViewState": "AQIAADsAAAAAAAAAAADwvx0AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-03T01:54:46.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T17:59:38.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "RelativeToolTip": "CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T17:36:38.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T06:29:51.845Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
+              "RelativeToolTip": "CoffeeSystem.WebApp\\Views\\Proveedor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T01:55:29.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "CoffeeSystem.WebApp\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:59:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProveedorService.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\Implementacion\\ProveedorService.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\Implementacion\\ProveedorService.cs",
               "RelativeDocumentMoniker": "CoffeeSystem.BLL\\Implementacion\\ProveedorService.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\Implementacion\\ProveedorService.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\Implementacion\\ProveedorService.cs",
               "RelativeToolTip": "CoffeeSystem.BLL\\Implementacion\\ProveedorService.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEwAAABCAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAywCMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T18:55:46.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
+              "RelativeToolTip": "CoffeeSystem.DAL\\Implementacion\\GenericRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:41:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedor_Index.js",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
+              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
+              "RelativeToolTip": "CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-03T01:54:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CoffeeSystem.WebApp\\Utilidades\\Automapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:36:38.131Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "VMProveedor.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Models\\ViewModels\\VMProveedor.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Models\\ViewModels\\VMProveedor.cs",
               "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Models\\ViewModels\\VMProveedor.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Models\\ViewModels\\VMProveedor.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Models\\ViewModels\\VMProveedor.cs",
               "RelativeToolTip": "CoffeeSystem.WebApp\\Models\\ViewModels\\VMProveedor.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,9 +170,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Proveedor.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\Proveedor.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\Proveedor.cs",
               "RelativeDocumentMoniker": "CoffeeSystem.Entity\\Proveedor.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\Proveedor.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\Proveedor.cs",
               "RelativeToolTip": "CoffeeSystem.Entity\\Proveedor.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,9 +182,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "datatables-demo.js",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\datatables-demo.js",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\datatables-demo.js",
               "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\datatables-demo.js",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\datatables-demo.js",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\datatables-demo.js",
               "RelativeToolTip": "CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\datatables-demo.js",
               "ViewState": "AQIAABcAAAAAAAAAAAAQwCUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -199,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "GenericResponse.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\GenericResponse.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\GenericResponse.cs",
               "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Utilidades\\GenericResponse.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\GenericResponse.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Utilidades\\GenericResponse.cs",
               "RelativeToolTip": "CoffeeSystem.WebApp\\Utilidades\\GenericResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,9 +206,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ListarOrdenDeCompra.cshtml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\OrdenDeCompra\\ListarOrdenDeCompra.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\OrdenDeCompra\\ListarOrdenDeCompra.cshtml",
               "RelativeDocumentMoniker": "CoffeeSystem.WebApp\\Views\\OrdenDeCompra\\ListarOrdenDeCompra.cshtml",
-              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\OrdenDeCompra\\ListarOrdenDeCompra.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\Views\\OrdenDeCompra\\ListarOrdenDeCompra.cshtml",
               "RelativeToolTip": "CoffeeSystem.WebApp\\Views\\OrdenDeCompra\\ListarOrdenDeCompra.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

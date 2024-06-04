@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bwmoncn/DDnLTMAGrEqtgx2aIL0XiK7+Rv/WY+vTgKmXgp2BdCpV3g43GLBE7KwFrMGrNy0mhqWQuypxacrZTg==",
+  "dgSpecHash": "pCSc7ymyeXRSr2K3Otr8cq4wrtGiTPqu8+VfXicMEi0lou+9iIxV9W508oWM3H1XHXgPCfh+FbTpcqngxDjt8A==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj",
+  "projectFilePath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\CoffeeSystem.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nahue\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\nahue\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
