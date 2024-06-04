@@ -1,0 +1,17 @@
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.BLL.deps.json
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.BLL.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.BLL.pdb
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.AssemblyInfo.cs
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\refint\CoffeeSystem.BLL.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.pdb
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\ref\CoffeeSystem.BLL.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.DAL.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.Entity.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.DAL.pdb
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\bin\Debug\net8.0\CoffeeSystem.Entity.pdb
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSystem.BLL.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.BLL\obj\Debug\net8.0\CoffeeSy.89EF9B92.Up2Date

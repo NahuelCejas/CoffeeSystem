@@ -1,0 +1,6 @@
+"CadenaSQL": "Server=(localdb)\NahuelCejas;Database=DBCoffeeSystem;Trusted_Connection=True;MultipleActiveResultSets=true"
+
+
+Generar las distintas clases a partir de la base de datos
+
+Scaffold-DbContext "Server=(localdb)\NahuelCejas;Database=DBCoffeeSystem;Trusted_Connection=True;MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer

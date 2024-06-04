@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\bin\Debug\net8.0\CoffeeSystem.Entity.deps.json
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\bin\Debug\net8.0\CoffeeSystem.Entity.runtimeconfig.json
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\bin\Debug\net8.0\CoffeeSystem.Entity.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\bin\Debug\net8.0\CoffeeSystem.Entity.pdb
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.AssemblyInfo.cs
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\refint\CoffeeSystem.Entity.dll
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.pdb
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\CoffeeSystem.Entity.genruntimeconfig.cache
+D:\Documents\GitHub\Prueba CoffeeSystem\CoffeSystem\CoffeeSystem.Entity\obj\Debug\net8.0\ref\CoffeeSystem.Entity.dll

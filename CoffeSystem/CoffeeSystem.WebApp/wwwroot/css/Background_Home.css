@@ -1,0 +1,10 @@
+body {
+    /* Reemplaza 'ruta/a/tu/imagen.jpg' con la ruta a tu imagen */
+    background-image: url('../img/CafeElMejor2.jpeg');
+    /* Centra la imagen de fondo */
+    background-position: center;
+    /* Hace que la imagen de fondo cubra todo el elemento */
+    background-size: cover;
+    /* Hace que la imagen de fondo no se repita */
+    background-repeat: no-repeat;
+}

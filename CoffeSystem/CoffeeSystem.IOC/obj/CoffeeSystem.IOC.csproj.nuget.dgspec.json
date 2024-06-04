@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj",
+        "projectName": "CoffeeSystem.BLL",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj",
+        "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nahue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj"
+              },
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj",
+        "projectName": "CoffeeSystem.DAL",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj",
+        "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nahue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
+        "projectName": "CoffeeSystem.Entity",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\CoffeeSystem.Entity.csproj",
+        "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nahue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
+        "projectName": "CoffeeSystem.IOC",
+        "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\CoffeeSystem.IOC.csproj",
+        "packagesPath": "C:\\Users\\nahue\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nahue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.BLL\\CoffeeSystem.BLL.csproj"
+              },
+              "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeSystem\\CoffeeSystem.DAL\\CoffeeSystem.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
