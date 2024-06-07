@@ -87,7 +87,7 @@ $("#btnRegistrar").click(function () {
     if (inputs_sin_valor.length > 0) {
         const mensaje = `Debe completar el campo: "${inputs_sin_valor[0].name}"`;
         toastr.warning("", mensaje);
-        $('input[name="' + inputs_sin_valor[0].name + '"]').focus();
+        $('input[name="' + inputs_sin_valor[0].name + '"]').focus()
         return;
     }
 
@@ -121,7 +121,7 @@ $("#btnRegistrar").click(function () {
 
                 if (responseJson.estado) {
                     tablaData.row.add(responseJson.objeto).draw(false)
-                    $("modalData").modal("hide")
+                    $("#modalData").modal("hide")
                     swal("Listo!", "Proveedor registrado correctamente", "success")
                 } else{
 

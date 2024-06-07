@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
     },
     {
+      "Id": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Producto_Index.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Producto_Index.js"
+    },
+    {
       "Id": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
       "PackagePath": "staticwebassets\\js\\vistas\\Proveedor_Index.js"
     },

@@ -34,6 +34,8 @@ namespace CoffeeSystem.IOC
             services.AddScoped<IFireBaseService, FireBaseService>();
 
             services.AddScoped<IProveedorService, ProveedorService>();
+
+            services.AddScoped<IProductoService, ProductoService>();
         }
     }
 }

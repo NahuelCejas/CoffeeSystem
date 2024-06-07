@@ -15,9 +15,12 @@
         //public decimal? PrecioCompra { get; set; }
         public string? PrecioCompra { get; set; }
 
-        public int? Stock { get; set; }        
+        public int? Stock { get; set; }
 
         public DateOnly? FechaVencimiento { get; set; }
+
+        //public string? FechaVencimiento { get; set; }
+
 
         public string? UrlImagen { get; set; }
 

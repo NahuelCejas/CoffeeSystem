@@ -3,6 +3,7 @@ using CoffeeSystem.Entity;
 using System.Globalization;
 using AutoMapper;
 
+
 namespace CoffeeSystem.WebApp.Utilidades.Automapper
 {
     public class AutoMapperProfile : Profile
@@ -24,11 +25,15 @@ namespace CoffeeSystem.WebApp.Utilidades.Automapper
             CreateMap<Producto, VMProducto>()
                 .ForMember(dest => dest.Proveedor, opt => opt.MapFrom(src => src.IdProveedorNavigation.RazonSocial))
                 .ForMember(dest => dest.PrecioCompra, opt => opt.MapFrom(src => Convert.ToString(src.PrecioCompra.Value, new CultureInfo("es-AR"))));
+                //.ForMember(dest => dest.FechaVencimiento, opt => opt.MapFrom(src => src.FechaVencimiento.Value.ToString("dd/MM/yyyy")));
 
             CreateMap<VMProducto, Producto>()
                 .ForMember(dest => dest.IdProveedorNavigation, opt => opt.Ignore())
                 .ForMember(dest => dest.PrecioCompra, opt => opt.MapFrom(src => Convert.ToDecimal(src.PrecioCompra, new CultureInfo("es-AR"))));
-
+            //.ForMember(dest => dest.FechaVencimiento, opt => opt.MapFrom(src => DateOnly.Parse(src.FechaVencimiento, new CultureInfo("es-AR"))));
+            //.ForMember(dest => dest.FechaVencimiento, opt => opt.MapFrom(src => DateTime.Parse(src.FechaVencimiento, new CultureInfo("es-AR"))));
+            //.ForMember(dest => dest.FechaVencimiento, opt => opt.MapFrom(src => DateTime.ParseExact(src.FechaVencimiento, "yyyy/MM/dd", CultureInfo.InvariantCulture)));
+            //.ForMember(dest => dest.FechaVencimiento, opt => opt.MapFrom(src => DateHelper.ConvertToDateOnly(src.FechaVencimiento)));
             #endregion Producto
 
             #region OrdenDeCompra

@@ -42,16 +42,17 @@ namespace CoffeeSystem.BLL.Implementacion
 
             try
             {
-                Proveedor proveedor = await _repositorio.Crear(entidad);
+                Proveedor proveedorCreado = await _repositorio.Crear(entidad);
 
-                if(proveedor.IdProveedor == 0)
+                if(proveedorCreado.IdProveedor == 0)
                 {
                     throw new TaskCanceledException("Error al registrar el proveedor");
                 }
 
-                IQueryable<Proveedor> query = await _repositorio.Consultar(p => p.IdProveedor == proveedor.IdProveedor);
+                IQueryable<Proveedor> query = await _repositorio.Consultar(p => p.IdProveedor == proveedorCreado.IdProveedor);
+                proveedorCreado = query.First();
 
-                return proveedor;
+                return proveedorCreado;
 
             }
             catch(Exception ex)

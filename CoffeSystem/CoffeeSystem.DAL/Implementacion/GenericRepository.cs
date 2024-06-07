@@ -54,7 +54,7 @@ namespace CoffeeSystem.DAL.Implementacion
         {
             try
             {
-                _dbSet.Update(entidad);
+                _dbContext.Update(entidad);
                 await _dbContext.SaveChangesAsync();
                 return true;
             }
@@ -68,7 +68,7 @@ namespace CoffeeSystem.DAL.Implementacion
         {
             try
             {
-                _dbSet.Remove(entidad);
+                _dbContext.Remove(entidad);
                 await _dbContext.SaveChangesAsync();
                 return true;
             }

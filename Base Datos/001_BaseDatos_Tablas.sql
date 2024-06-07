@@ -5,18 +5,6 @@ go
 
 use DBCoffeeSystem
 
-go
-
-create table Menu(
-idMenu int primary key identity(1,1),
-descripcion varchar(30),
-idMenuPadre int references Menu(idMenu),
-icono varchar(30),
-controlador varchar(30),
-paginaAccion varchar(30),
-esActivo bit,
-fechaRegistro datetime default getdate()
-)
 
 go
 
@@ -38,15 +26,11 @@ go
 create table Producto(
 idProducto int primary key identity(1,1),
 codProducto varchar(50) UNIQUE NOT NULL,
-nombre varchar(50),
 marca varchar(50),
 descripcion varchar(150),
 idProveedor int references Proveedor(idProveedor),
 precioCompra DECIMAL(10,2),
-precioVenta DECIMAL(10,2),
 stock int,
-stockMinimo int,
-stockMaximo int,
 fechaVencimiento date,
 urlImagen varchar(500),
 nombreImagen varchar(100),

@@ -26,7 +26,7 @@ public partial class DbcoffeeSystemContext : DbContext
 
     public virtual DbSet<Producto> Productos { get; set; }
 
-    public virtual DbSet<Proveedor> Proveedors { get; set; }
+    public virtual DbSet<Proveedor> Proveedores { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) { }
 
@@ -150,16 +150,17 @@ public partial class DbcoffeeSystemContext : DbContext
                 .HasMaxLength(150)
                 .IsUnicode(false)
                 .HasColumnName("descripcion");
-            entity.Property(e => e.FechaVencimiento).HasColumnName("fechaVencimiento");
+            entity.Property(e => e.FechaVencimiento)
+                .HasColumnName("fechaVencimiento")
+                .HasColumnType("dateOnly");
+                //.HasColumnType("datetime")
+                //.HasDefaultValueSql("(getdate())"); 
             entity.Property(e => e.IdProveedor).HasColumnName("idProveedor");
             entity.Property(e => e.Marca)
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("marca");
-            entity.Property(e => e.Nombre)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("nombre");
+            
             entity.Property(e => e.NombreImagen)
                 .HasMaxLength(100)
                 .IsUnicode(false)
@@ -167,12 +168,9 @@ public partial class DbcoffeeSystemContext : DbContext
             entity.Property(e => e.PrecioCompra)
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("precioCompra");
-            entity.Property(e => e.PrecioVenta)
-                .HasColumnType("decimal(10, 2)")
-                .HasColumnName("precioVenta");
+            
             entity.Property(e => e.Stock).HasColumnName("stock");
-            entity.Property(e => e.StockMaximo).HasColumnName("stockMaximo");
-            entity.Property(e => e.StockMinimo).HasColumnName("stockMinimo");
+           
             entity.Property(e => e.UrlImagen)
                 .HasMaxLength(500)
                 .IsUnicode(false)

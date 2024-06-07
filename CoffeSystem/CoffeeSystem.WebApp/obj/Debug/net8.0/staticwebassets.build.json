@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Z5cmDrEK7R/b1qSwWH+zeu1t93wpFsxmDVHT8TQ6eQ=",
+  "Hash": "VxwStLj9EvV3hPKT1V4UVhDbw8TJPDyOIbTxmhtfb74=",
   "Source": "CoffeeSystem.WebApp",
   "BasePath": "_content/CoffeeSystem.WebApp",
   "Mode": "Default",
@@ -376,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\vistas\\datatables-demo.js"
+    },
+    {
+      "Identity": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Producto_Index.js",
+      "SourceId": "CoffeeSystem.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\",
+      "BasePath": "_content/CoffeeSystem.WebApp",
+      "RelativePath": "js/vistas/Producto_Index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\Producto_Index.js"
     },
     {
       "Identity": "D:\\Documents\\GitHub\\Prueba CoffeeSystem\\CoffeeSystem\\CoffeSystem\\CoffeeSystem.WebApp\\wwwroot\\js\\vistas\\Proveedor_Index.js",
